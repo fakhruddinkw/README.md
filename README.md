@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Fakhruddin, final year student pursuing Computer Science!
-- 👀 I’m interested in Machine Learning!
-- 🌱 I’m currently learning MERN stack
+- 👋 Hi, I’m Fakhruddin, recent graduate.
+- 🌱 I’m currently working with MERN stack.
 - 📫 How to reach me (fmkhandwala39@gmail.com)
-- FEEL FREE TO CONNECT twitter-@fakhruddinkw
+
+
